@@ -8,3 +8,6 @@
 [submodule "survivalPLANN"]
 	path = survivalPLANN
 	url = https://github.com/chupverse/survivalplann
+[submodule "survivalSL"]
+	path = survivalSL
+	url = https://github.com/chupverse/survivalsl
